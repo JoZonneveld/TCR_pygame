@@ -1,9 +1,9 @@
 import pygame
 from color.Color import *
-from player.Player import Player
-from enemy.Enemy import Enemy
+from follow_player.player.Player import Player
+from follow_player.enemy.Enemy import Enemy
 from vector.Vector import Vector
-from settings.Settings import screen_height, screen_width
+from follow_player.settings.Settings import screen_height, screen_width
 
 
 class Game:

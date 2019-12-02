@@ -1,6 +1,6 @@
 import pygame
 from color.Color import enemy_color
-from settings.Settings import enemy_speed
+from follow_player.settings.Settings import enemy_speed
 
 
 class Enemy:

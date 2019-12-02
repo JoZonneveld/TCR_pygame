@@ -1,6 +1,6 @@
 import pygame
 from color.Color import *
-from settings.Settings import screen_width, screen_height, player_speed
+from follow_player.settings.Settings import screen_width, screen_height, player_speed
 
 
 class Player:
